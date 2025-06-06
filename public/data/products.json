@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Silicone Case for AirPods Pro with Carabiner",
+      "price": 24.99,
+      "description": "Shockproof silicone case for AirPods Pro. Includes a keychain carabiner, supports wireless charging, and protects against scratches and drops.",
+      "image": "/4image.jpeg",
+      "rating": 4.8,
+      "reviews": 124,
+      "colors": ["black", "silver", "blue"],
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Women's Seamless Wireless Sports Bra – 3-Pack",
+      "price": 10.99,
+      "description": "Comfortable, wire-free, and seamless sports bras with full coverage and stretch fit. Ideal for daily wear, yoga, or light workouts. Available in multiple colors.",
+      "image": "/3image.jpeg",
+      "rating": 4.6,
+      "reviews": 89,
+      "colors": ["black"],
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Exfoliating Body Scrub Bath Gloves – 4 Pairs",
+      "price": 15.99,
+      "description": "Textured exfoliating gloves for deep cleansing and smooth skin. Ideal for shower or bath use. Comes in assorted colors: blue, white, purple, and pink.",
+      "image": "/2image.jpeg",
+      "rating": 4.5,
+      "reviews": 56,
+      "colors": ["black", "white", "gray"],
+      "inStock": false
+    },
+    {
+      "id": 4,
+      "name": "2-Tier Spice Rack Organizer for Kitchen Cabinet",
+      "price": 49.99,
+      "description": "Rotating 2-tier spice rack fits bottles up to 5' x 2.25'. Great for storing herbs and spices in a compact, accessible design.",
+      "image": "/1image.jpeg",
+      "rating": 4.9,
+      "reviews": 215,
+      "colors": ["midnight", "starlight", "blue"],
+      "inStock": true
+    }
+  ]
+}
