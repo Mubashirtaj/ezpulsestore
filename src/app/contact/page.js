@@ -187,9 +187,7 @@ export default function Contact() {
                   </svg>
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Email</h3>
-                <p className="text-gray-600 mb-2">
-                  maroofmubibusiness.info@gmail.com
-                </p>
+                <p className="text-gray-600 mb-2">Ezpulse.info@gmail.com</p>
                 <p className="text-gray-500 text-sm">
                   Typically responds within 24 hours
                 </p>
